@@ -1,0 +1,7 @@
+## **Prepara-se para jornada**
+
+01 - Conheça as Oportunidades da DIO
+02 - Seja Protagonista Neste Bootcamp
+03 - Introdução ao Desenvolvimento Moderno de Software
+04 - Introdução ao Git e ao GitHub
+05 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
